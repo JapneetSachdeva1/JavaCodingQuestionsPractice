@@ -9,6 +9,8 @@ public class ReverseEachWord
 
     private static void printEachWordReverse(String str)
     {
+        //TODO: Also we can use Stacks for this programming question
+
         String [] arr = str.split(" ");
         String reverse = "";
         String reverseString = "";
@@ -24,7 +26,7 @@ public class ReverseEachWord
                 reverseString += reverse;
             }
 
-            System.out.println("");
+            System.out.print(" ");
         }
 
     }
