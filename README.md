@@ -1,5 +1,17 @@
 A collection of Java utility programs to demonstrate problem-solving techniques for strings, arrays, and basic programming challenges. Ideal for practice or as references for coding interviews.
 
+Skills Gained:
+- String Manipulation
+- Array Processing
+- Character Frequency Analysis
+- Handling Special Characters
+- Substring Generation
+- Sorting and Reordering Elements
+- Iterative Problem Solving
+- Debugging Java Programs
+- Optimizing Algorithms
+- Modular Code Design
+
 Key Files and Descriptions
 
 - ReverseString.java:
